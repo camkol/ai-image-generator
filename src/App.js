@@ -3,7 +3,7 @@ import ImageGenerator from "./Components/ImageGenerator/ImageGenerator";
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <ImageGenerator />
     </div>
   );

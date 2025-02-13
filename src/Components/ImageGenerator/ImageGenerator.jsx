@@ -40,7 +40,7 @@ const ImageGenerator = () => {
       <div className="header">
         Ai image <span>generator</span>
       </div>
-      <div className="img-loaging">
+      <div className="img-loading">
         <div className="image">
           <img src={image_url === "/" ? default_image : image_url} alt="" />
         </div>
